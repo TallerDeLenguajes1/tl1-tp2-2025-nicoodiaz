@@ -1,3 +1,3 @@
 f. No se puede ver el archivo tp2_1_2.c ya que fue creado en otra rama y no en la main y todavia no se hizo el "merge"
 La diferencia al agregar el archivo .txt, es que este si figura en la rama main y a traves del "Source Control" se observa la rama Opcion_2 y el commit de cuando se agrego el .txt
-Despues de hacer el merge, lo que se puede ver, es que ya se agrego el archivo tp2_1_2.c a la rama main 
+Despues de hacer el merge, lo que se puede ver, es que ya se agrego el archivo tp2_1_2.c a la rama main
