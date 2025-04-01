@@ -17,14 +17,12 @@ int main()
     {
         for(j = 0;j<M; j++)
         {
-            mt[i][j]=1+rand()%100;
-            printf("%0.lf   ", mt[i][j]);
+            *punteromt=1+rand()%100;
+            printf("%3d", *punteromt);
+            punteromt++;
         }
         printf("\n");
     }
-
-    printf("\n0AAAAAA %d\n", mt[3][4]);
-    printf("\n0AAAAAA %d\n", mt[2][2]);
     
     return 0;
 }
